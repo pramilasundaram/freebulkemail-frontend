@@ -1,6 +1,6 @@
 import React from 'react'
 // import "./Card.css"
-import { Card, CardTitle, Button, CardBody, CardSubtitle } from "reactstrap"
+import { Card, Button, CardBody, CardSubtitle } from "reactstrap"
 import { useNavigate } from 'react-router-dom'
 
 export default function Cards() {
