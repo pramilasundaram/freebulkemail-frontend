@@ -117,7 +117,7 @@ const messagefrom=localStorage.getItem("useremail")
                         id="appPassword"
                         name="appPassword"
                         placeholder="enter your 16-digit app password"
-                        type="text"
+                        type="password"
                         value={form.appPassword}
                       onChange={handlechange}/>
                     </Col>
